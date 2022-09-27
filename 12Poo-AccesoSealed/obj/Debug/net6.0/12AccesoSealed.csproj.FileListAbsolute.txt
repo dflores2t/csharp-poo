@@ -1,0 +1,15 @@
+/home/dail/dotNet5/csharp-Poo/12AccesoSealed/bin/Debug/net6.0/12AccesoSealed
+/home/dail/dotNet5/csharp-Poo/12AccesoSealed/bin/Debug/net6.0/12AccesoSealed.deps.json
+/home/dail/dotNet5/csharp-Poo/12AccesoSealed/bin/Debug/net6.0/12AccesoSealed.runtimeconfig.json
+/home/dail/dotNet5/csharp-Poo/12AccesoSealed/bin/Debug/net6.0/12AccesoSealed.dll
+/home/dail/dotNet5/csharp-Poo/12AccesoSealed/bin/Debug/net6.0/12AccesoSealed.pdb
+/home/dail/dotNet5/csharp-Poo/12AccesoSealed/obj/Debug/net6.0/12AccesoSealed.csproj.AssemblyReference.cache
+/home/dail/dotNet5/csharp-Poo/12AccesoSealed/obj/Debug/net6.0/12AccesoSealed.GeneratedMSBuildEditorConfig.editorconfig
+/home/dail/dotNet5/csharp-Poo/12AccesoSealed/obj/Debug/net6.0/12AccesoSealed.AssemblyInfoInputs.cache
+/home/dail/dotNet5/csharp-Poo/12AccesoSealed/obj/Debug/net6.0/12AccesoSealed.AssemblyInfo.cs
+/home/dail/dotNet5/csharp-Poo/12AccesoSealed/obj/Debug/net6.0/12AccesoSealed.csproj.CoreCompileInputs.cache
+/home/dail/dotNet5/csharp-Poo/12AccesoSealed/obj/Debug/net6.0/12AccesoSealed.dll
+/home/dail/dotNet5/csharp-Poo/12AccesoSealed/obj/Debug/net6.0/refint/12AccesoSealed.dll
+/home/dail/dotNet5/csharp-Poo/12AccesoSealed/obj/Debug/net6.0/12AccesoSealed.pdb
+/home/dail/dotNet5/csharp-Poo/12AccesoSealed/obj/Debug/net6.0/12AccesoSealed.genruntimeconfig.cache
+/home/dail/dotNet5/csharp-Poo/12AccesoSealed/obj/Debug/net6.0/ref/12AccesoSealed.dll

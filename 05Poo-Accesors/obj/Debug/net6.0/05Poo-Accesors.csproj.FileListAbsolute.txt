@@ -1,0 +1,15 @@
+/home/dail/dotNet5/csharp-Poo/05Poo-Accesors/bin/Debug/net6.0/05Poo-Accesors
+/home/dail/dotNet5/csharp-Poo/05Poo-Accesors/bin/Debug/net6.0/05Poo-Accesors.deps.json
+/home/dail/dotNet5/csharp-Poo/05Poo-Accesors/bin/Debug/net6.0/05Poo-Accesors.runtimeconfig.json
+/home/dail/dotNet5/csharp-Poo/05Poo-Accesors/bin/Debug/net6.0/05Poo-Accesors.dll
+/home/dail/dotNet5/csharp-Poo/05Poo-Accesors/bin/Debug/net6.0/05Poo-Accesors.pdb
+/home/dail/dotNet5/csharp-Poo/05Poo-Accesors/obj/Debug/net6.0/05Poo-Accesors.csproj.AssemblyReference.cache
+/home/dail/dotNet5/csharp-Poo/05Poo-Accesors/obj/Debug/net6.0/05Poo-Accesors.GeneratedMSBuildEditorConfig.editorconfig
+/home/dail/dotNet5/csharp-Poo/05Poo-Accesors/obj/Debug/net6.0/05Poo-Accesors.AssemblyInfoInputs.cache
+/home/dail/dotNet5/csharp-Poo/05Poo-Accesors/obj/Debug/net6.0/05Poo-Accesors.AssemblyInfo.cs
+/home/dail/dotNet5/csharp-Poo/05Poo-Accesors/obj/Debug/net6.0/05Poo-Accesors.csproj.CoreCompileInputs.cache
+/home/dail/dotNet5/csharp-Poo/05Poo-Accesors/obj/Debug/net6.0/05Poo-Accesors.dll
+/home/dail/dotNet5/csharp-Poo/05Poo-Accesors/obj/Debug/net6.0/refint/05Poo-Accesors.dll
+/home/dail/dotNet5/csharp-Poo/05Poo-Accesors/obj/Debug/net6.0/05Poo-Accesors.pdb
+/home/dail/dotNet5/csharp-Poo/05Poo-Accesors/obj/Debug/net6.0/05Poo-Accesors.genruntimeconfig.cache
+/home/dail/dotNet5/csharp-Poo/05Poo-Accesors/obj/Debug/net6.0/ref/05Poo-Accesors.dll

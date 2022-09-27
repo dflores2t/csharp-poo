@@ -1,0 +1,15 @@
+/home/dail/dotNet5/csharp-Poo/11Herencia/obj/Debug/net6.0/11Herencia.csproj.AssemblyReference.cache
+/home/dail/dotNet5/csharp-Poo/11Herencia/obj/Debug/net6.0/11Herencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/dail/dotNet5/csharp-Poo/11Herencia/obj/Debug/net6.0/11Herencia.AssemblyInfoInputs.cache
+/home/dail/dotNet5/csharp-Poo/11Herencia/obj/Debug/net6.0/11Herencia.AssemblyInfo.cs
+/home/dail/dotNet5/csharp-Poo/11Herencia/obj/Debug/net6.0/11Herencia.csproj.CoreCompileInputs.cache
+/home/dail/dotNet5/csharp-Poo/11Herencia/bin/Debug/net6.0/11Herencia
+/home/dail/dotNet5/csharp-Poo/11Herencia/bin/Debug/net6.0/11Herencia.deps.json
+/home/dail/dotNet5/csharp-Poo/11Herencia/bin/Debug/net6.0/11Herencia.runtimeconfig.json
+/home/dail/dotNet5/csharp-Poo/11Herencia/bin/Debug/net6.0/11Herencia.dll
+/home/dail/dotNet5/csharp-Poo/11Herencia/bin/Debug/net6.0/11Herencia.pdb
+/home/dail/dotNet5/csharp-Poo/11Herencia/obj/Debug/net6.0/11Herencia.dll
+/home/dail/dotNet5/csharp-Poo/11Herencia/obj/Debug/net6.0/refint/11Herencia.dll
+/home/dail/dotNet5/csharp-Poo/11Herencia/obj/Debug/net6.0/11Herencia.pdb
+/home/dail/dotNet5/csharp-Poo/11Herencia/obj/Debug/net6.0/11Herencia.genruntimeconfig.cache
+/home/dail/dotNet5/csharp-Poo/11Herencia/obj/Debug/net6.0/ref/11Herencia.dll
